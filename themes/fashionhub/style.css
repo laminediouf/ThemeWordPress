@@ -1,0 +1,183 @@
+/*
+Theme Name: fashionhub 
+Theme URI:  
+Description: fashionhub is Powerful Child Theme of Fasionair,which is ecommerce WordPress Theme. fashionhub is the perfect free theme for ecommerce shop and easy to set an online store for better productivity. fashionhub is responsive mobile optimized and using bootstrap framework. fashionhub is highly recommended for business, informative, agencies, travel, design, art, personal, restaurant, construction, health, digital agency, bloggers, corporate business, freelancers, portfolio, product showcase, and any other creative ecommerce websites. Theme is fully competible with all leading page builders plugins like Elementor, Visual Composer , SiteOrigin, Beaver Builder, Divi ,Page Builder Sandwich. 
+Author: Infigo Software
+Author URI: http://infigosoftware.in/
+Template: fashionair
+Version: 0.1
+Tags: rtl-language-support,two-columns, three-columns, custom-menu, right-sidebar, front-page-post-form, custom-background, featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, flexible-header, translation-ready , blog , custom-logo , E-Commerce , footer-widgets   
+Text Domain: fashionhub
+*/
+
+/*search*/
+ul.account-links{
+	padding:0;
+}
+ul.account-links li {
+    display: inline-block;
+    padding: 10px;
+}
+ul.account-links li a{
+	color:#fff;
+}
+.col-md-8.meta-menu{
+padding:0;
+}
+.fashion_top p.woocommerce-mini-cart__empty-message{
+    color: #000;
+}
+.mini-cart-container {
+    position: relative;
+    padding: 5px;
+    padding-right: 0;
+}
+
+.bgs-cart-nav {
+    cursor: pointer;
+}
+
+.mini-cart-icon {
+    float: left;
+    margin-right: 30px;
+    position: relative;
+}
+
+.mini-cart-details {
+    float: left;
+}
+
+.mini-cart-title,
+.mini-cart-total {}
+
+.mini-cart-title {}
+
+.mini-cart-total {}
+
+.bgs-cart-nav i.fa.fa-shopping-cart {
+    font-size: 30px;
+    display: block;
+}
+
+.mini-item-count {
+    position: absolute;
+    top: 0;
+    right: -16px;
+    border: 1px solid #FFF;
+    border-radius: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2px 3px;
+    font-size: 11px;
+    color: #FFF;
+    min-width: 20px;
+}
+
+.bgs-mini-cart {
+    width: 300px;
+    background-color: #efefef;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 50px;
+    z-index: 100;
+    right: 10px;
+    transition: all .3s ease-in-out;
+    transform: scale(0);
+    visibility: hidden;
+    transform-origin: top right;
+    padding: 10px;
+    
+}
+
+.bgs-mini-cart .woocommerce ul.cart_list, .bgs-mini-cart .woocommerce ul.product_list_widget{
+    max-height: 420px;
+    overflow-y: auto;
+}
+
+.bgs-mini-cart:before {
+    border-bottom: 10px solid #efefef;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    position: absolute;
+    content: "";
+    top: -10px;
+    right: 30px;
+}
+
+.mini-cart-container:hover .bgs-mini-cart {
+    display: block;
+    transform: scale(1);
+    visibility: visible;
+}
+
+.bgs-mini-cart .bgs-cart-list {
+    max-height: 420px;
+    overflow-y: auto;
+    padding: 10px !important;
+}
+
+.bgs-mini-cart li.mini_cart_item {
+    display: inline-block !important;
+    position: relative !important;
+    width: 100% !important;
+    border: 1px solid #ddd !important;
+    margin: 0 !important;
+    margin-bottom: 10px !important;
+    padding: 10px !important;
+    background-color: #FFF;
+}
+
+.bgs-mini-cart li.mini_cart_item a.remove {
+    position: absolute !important;
+    right: 10px !important;
+    top: 10px !important;
+    border-radius: 2px !important;
+    color: #9E9E9E !important;
+    font-size: 20px !important;
+    height: 20px !important;
+    width: 20px !important;
+    text-align: center !important;
+    line-height: 18px;
+}
+
+.bgs-mini-cart li.mini_cart_item a.remove:hover {
+    background-color: #9e9e9e !important;
+    color: #757575 !important;
+}
+
+.bgs-mini-cart li.mini_cart_item .bgs-product-img-link {
+    display: block;
+}
+
+.bgs-mini-cart li.mini_cart_item img {
+    width: 50px !important;
+    height: auto !important;
+    display: block !important;
+    float: left !important;
+    margin: 0;
+    margin-right: 10px !important;
+}
+
+.bgs-mini-cart p.total {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.bgs-mini-cart p.buttons {
+    text-align: center;
+}
+
+.cart-btn {
+    border: 1px solid #2196F3;
+    border-bottom: 2px solid #2196F3;
+    text-transform: uppercase;
+    color: #2196F3;
+}
+.p.woocommerce-mini-cart__empty-message{
+	color:#000;
+}
+form.search-form.storeone-search {
+    margin-top: -19px;
+}
+.col-md-12.top-part {
+    border-top: 1px solid #ccc;
+}

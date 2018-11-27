@@ -1,0 +1,80 @@
+/*Cutomizer CSS*/
+#customize-controls [id*="fashionair_theme_option"] > h3:before {
+    content: '\f0ad';
+    font-family: fontawesome;
+    padding-right: 5px;
+}
+
+
+
+#accordion-section-enigma_more h3.accordion-section-title{
+	background: #31A3DD;
+	color:#fff;
+	
+}
+.btn-lg, .btn-group-lg > .btn {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+
+.upsell-fashionair{
+float:none;
+margin-left: 20px;
+}
+.btn-success {
+  color: #fff;
+  background-color: #d3494c;
+  border-color: #4cae4c;
+}
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.upsell-btn a:hover {color:#fff;}
+
+
+.stitched {
+   padding: 20px;
+   margin: 10px;
+   background: linear-gradient(40deg,#804b0ac4,#bd21c7f5);
+   color: #fff;
+   font-size: 17px;
+   font-weight: bold;
+   line-height: 1.3em;
+   border: 2px dashed #fff;
+   border-radius: 10px;
+   box-shadow: 0 0 0 4px #558a9a, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+}
+
+li.upsell-enigma {border-radius: 12px;padding: 7px 7px;box-shadow: 2px 2px 5px 0px #a9a3a3;color: #199fb3;font-size: 15px;}
+.upsell-enigma .dashicons.dashicons-yes {color: #09ad09;}
+
+li#accordion-section-fashionair_upgrade h3 {
+    background-color:#d22024!important;
+    color: #fff!important;
+    padding: 30px 21px;
+    font-size: 16px;
+}
+li#accordion-section-fashionair_upgrade .accordion-section-title:after
+{
+	color: #fff!important;
+}

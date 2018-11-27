@@ -1,0 +1,99 @@
+/*
+ Theme Name:   oneway
+ Theme URI:    http://www.evidisha.com/oneway/
+ Description: Oneway is a child theme of zerif lite. It contain sections with gradient overlay. Which enhance  beauty of zerif. This design is suitable for a website of your desired niche (Like Agency, Personal, Local business, Corporate etc). Additionally it contain all options available with zerif lite theme
+ Author:       Evidisha Team
+ Author URI:   http://www.evidisha.com/
+ Template:     zerif-lite
+ Version:      1.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: two-columns, right-sidebar, custom-menu, editor-style, translation-ready, theme-options, featured-images, e-commerce, photography
+ Text Domain: oneway
+*/
+
+.home .navbar {
+background: transparent;
+box-shadow: none!important;
+border-bottom: 1px dotted rgba(255, 255, 255, 0.25)
+}
+.navbar-brand .site-title > a{
+font-size:36px;
+}
+.dark-text, .section-header h2, #focus .section-header h2 a, #team .section-header h2 a, #aboutus .section-header h2 a, #testimonials .section-header h2 a, #contact .section-header h2 a, .section-header .section-legend, .focus-box h3, .focus-box p, .about-us p,.team-member h3, .team-member .position, #carousel-homepage-latestnews .carousel-inner .item .latestnews-title a, .latesnews-content p, .latesnews-content, .company-details a, .company-details, .navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand .site-title a, .navbar-inverse .navbar-brand p.site-description, .navbar-inverse .navbar-brand .site-title, .header-content-wrap h3, .social li a, .copyright p{
+color:#fcfcfc;
+}
+.skills .skill p {
+    color: #eee;
+}
+.our-clients .section-footer-title, .our-clients {
+    background: none;
+}
+.zerif-copyright-box {
+       display: none;
+}
+.red-border-bottom:before, #carousel-homepage-latestnews .item .latestnews-box .latestnews-title a:before{
+background:#ededed!important;
+}
+.zerif-copyright, .zerif-copyright-box {
+    color: #fcfcfc!important;
+}
+.team-member .social-icons ul li a{
+background:transparent;
+color:#fff;
+}
+.purchase-now .red-btn, .separator-one .green-btn , .pirate_forms .pirate-forms-submit-button{
+       background: #fff;
+    color: #666!important;
+	    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 0px;
+}
+
+.navbar-toggle.collapsed {
+    background-color: transparent!important;
+}
+.header-content-wrap, .separator-one, .our-team, .contact-us,.purchase-now, .copyright {
+        background: -moz-linear-gradient(180deg,rgba(235, 122, 255, 0.729412) 0%, rgba(22, 48, 135, 0.941176) 100%);
+    background: -webkit-linear-gradient(180deg,rgba(235, 122, 255, 0.729412) 0%, rgba(22, 48, 135, 0.941176) 100%);
+    background: -o-linear-gradient(180deg,rgba(235, 122, 255, 0.729412) 0%, rgba(22, 48, 135, 0.941176) 100%);
+    background: -ms-linear-gradient(180deg,rgba(235, 122, 255, 0.729412) 0%, rgba(22, 48, 135, 0.941176) 100%);
+    background: linear-gradient(180deg,rgba(235, 122, 255, 0.729412) 0%, rgba(22, 48, 135, 0.941176) 100%);
+}
+.focus, .about-us, #footer, .testimonial, .latest-news{
+       background: rgba(37, 198, 212, 0.86);
+}
+.focus-box .service-icon{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+	border-top-left-radius: 0px;
+	border-color:#eee;
+	}
+	#client-feedbacks .feedback-box, .testimonial .widget_zerif_testim-widget, .latestnews-img img, .team-member .profile-pic{
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-right-radius: 8px;
+	border-top-left-radius: 0px;
+		}
+	#focus span .focus-box .service-icon:hover, #focus span .focus-box .service-icon:focus{
+	border-color:#fff!important;
+	}
+.header-content-wrap{
+min-height:100vh;
+}
+.red-btn, .green-btn, .blue-btn, .yellow-btn{
+background:#fff;
+color:#666!important;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 0px;
+}
+.red-btn:hover, .green-btn:hover, .blue-btn:hover, .yellow-btn:hover, .pirate_forms .pirate-forms-submit-button:hover{
+color:#fff!important;
+}
+#client-feedbacks .feedback-box, .testimonial .widget_zerif_testim-widget {
+      background: #f8f8f8;
+}

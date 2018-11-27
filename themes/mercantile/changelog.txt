@@ -1,0 +1,73 @@
+== Change log ==
+
+= 2.1.1 - Jan 11 2018 =
+* Added: Store Title
+* Updated : Breadcrumb and TGM-Plugin-Activation
+* Updated : Admin script enqueue
+* Updated : Font Awesome
+* Fixed: Minor fixes
+
+= 2.1.0 - July 14 2017 =
+* Added: Theme Menu Page
+* Added: Front Page, Archive and Single Page/Post Advanced Sidebar
+* Added: Home Main Content Area Description on Widget and Customizer
+* Added: Acme Demo Setup, information
+* Added: Feature Slider Responsive Image and Image only options
+* Updated : Customizer experience
+* Fixed: Jetpack infinite scroll
+* Fixed: Breadcrumb Trail notification issue
+
+= 2.0.2 =
+* Fixed : Acme Feature Widget default return value
+* Fixed : Scroolspy
+
+= 2.0.1 =
+* Added : Options to change Read More and Know More
+
+= 2.0.0 =
+* Added : Upgrade to Pro
+* Fixed: Minor Bug
+
+= 1.0.9 =
+* Fixed: Minor Bug
+
+= 1.0.8 =
+* Added : Sticky Menu Enable/Disable
+* Added : Active/Hover Menu Options
+
+= 1.0.7 =
+* Updated : Screenshot with WooCommerce icon and search icon
+* Fixed: Minor bug fixes
+
+= 1.0.6 =
+* Updated : Feature Section Widgets
+* Fixed: Minor bug fixes
+
+= 1.0.5 =
+* Added : New widgets
+* Remove : Custom CSS in favor of WP 4.7
+* Fixed: CSS tweaks
+* Fixed: Minor bug fixes
+
+= 1.0.4 =
+* Fixed: Minor Bug
+
+= 1.0.3 =
+* Fixed: Comment Listing
+* Fixed: Minor CSS
+
+= 1.0.2 =
+* Fixed: Comment Listing
+* Fixed: Minor CSS
+
+= 1.0.1 =
+* Fixed: Minor Bug
+
+= 1.0.0 =
+* Updated: Extend theme Customizer options
+* Added : Custom widgets
+* Added : WooCommerce Supports
+* Fixed: Fixed and Extended CSS
+
+= 0.0.1 =
+* Submitted to WordPress.org

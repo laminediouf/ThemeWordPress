@@ -1,0 +1,366 @@
+@media(max-width:768px){
+	.head-logo {
+    text-align: center;
+    padding: 10px;
+}
+.swiper1 {
+    height: auto;
+}
+.swiper3 .swiper-button-prev {
+    margin-left: 40%;
+    margin-top: 45%;
+}
+.swiper3 .swiper-button-next{
+	  margin-right: 40%;
+    margin-top: 45%;
+}
+.fashion-blog .pagination {
+   display:none
+}
+.w_slider .swiper-container {
+    height: auto;
+}
+.carousel-caption {
+    left: 10%;
+    right: 10%;
+    top: 20%;
+}
+.add-cover {
+	height:auto;
+}
+.menu .icon {
+    display: none;
+}
+	.head-menu {
+    padding:15px 0;
+}
+ul.column.mayHide {
+    display: none;
+}
+.fashion_slider .carousel-caption {
+    left: 15%;
+    right: 15%;
+    text-align: center;
+    top: 10%;
+}
+.head {
+    padding: 14px 0;
+}
+.fashion-search .form-control {
+width: 80%;
+}
+.fashion-sidebar {
+margin-top: 50px;
+}
+.fashion-error-details{
+	text-align:center;
+}
+
+.blog-post-img {
+    margin: 20px 0;
+}
+.fashion_slider .swiper-container {
+    height: 475px;
+}
+.footer-copy{
+	text-align:center;
+	padding: 10px 0;
+}
+.footer-copy-text p {
+    padding: 10px 0;
+}
+ .navbar-header {
+    float: none;
+    text-align: center;
+}
+.footer-widget li {
+    margin-right: 10px;
+}
+.fashion-blog-text.blog-gallerys div#attachment_907 img {
+    width: 62%;
+} 
+.fashion-blog-text.blog-gallerys img.alignnone.wp-image-907 {
+    width: 100%;
+}
+.fashion-next {
+    text-align: right;
+}	
+}
+
+@media (max-width: 767px){
+.collapse.navbar-collapse {
+    float: none;
+    width: 100%;
+}
+}
+
+
+
+@media only screen and (max-width: 600px) and (min-width: 200px){
+.dropdown-menu {
+    width: 100%;
+    float: none;
+    position: static !important;
+}
+}
+
+@media only screen and (max-width: 480px) and (min-width: 200px){
+.fashion_top .navbar-brand {
+    text-align: center;
+    padding-top: 15px;
+}
+}
+
+@media(max-width:480px){
+.fashion_slider  .carousel-caption {
+    left: 10%;
+    right: 10%;
+    text-align: center;
+    top: 15px;
+}
+.navbar-toggle {
+    margin-right: -16px;
+    margin-top: 20px;
+}
+.navbar-header img {
+    max-height: 70px;
+    max-width: 250px;
+}
+.fashion_slider .swiper-container {
+    height: 255px;
+}
+.fashion_slider  .carousel-caption h1 {
+    font-size: 24px;
+}
+.fashion_slider  .swiper-pagination-bullets{
+	display:none;
+}
+.fashion_slider  .carousel-caption p {
+    font-size: 12px;
+}
+.fashion_slider  .carousel-caption .btn {
+    font-size: 10px;
+}
+.fashion_slider  .swiper-button-next1, 
+.fashion_slider .swiper-button-prev1 {
+    height: 35px;
+    width: 35px;
+}
+.fashion_slider  .swiper-button-next1::after {
+    font-size: 28px;
+    margin-left: 3px;
+    margin-top: -15px;
+}
+.fashion_slider  .swiper-button-prev1::after {
+    font-size: 28px;
+    margin-left: 0px;
+    margin-top: -16px;
+}
+.news-desc {
+    padding: 20px 0;
+}
+.swiper3 .swiper-button-next {
+    margin-right: 30%;
+    margin-top: 95%;
+}
+.swiper3 .swiper-button-prev {
+    margin-left: 30%;
+    margin-top: 95%;
+}
+.swiper4 .swiper-button-next {
+    margin-right: 32%;
+	margin-top:33%;
+}
+.swiper4 .swiper-button-prev {
+    margin-left: 32%;
+	margin-top:33%;
+}
+.swiper2 .swiper-button-next {
+    margin-top: 86%;
+    margin-right: 30%;
+}
+.swiper2 .swiper-button-prev {
+    margin-left: 30%;
+    margin-top: 86%;
+}
+.p-color h1::before,
+.p-color h1::after{
+	 display:none;
+}
+.p-color {
+    padding: 34px;
+}
+.head {
+    padding: 6px 0;
+}
+.head-menu {
+    padding: 0 0;
+}
+.shop-grid-view .icons-overlay li {
+    padding: 10px 29.5px;
+}
+.menu-wrapper .column {
+display: inline;
+    padding: 0;
+}
+.depth-2-wrapper {
+width: 220px;
+}
+ul.column.mayHide {
+display: none;
+}
+.button-right .btn,
+.button-left .btn{
+float:none;
+}
+.blog-grid .fashion-blog-desc:hover .color-img {
+padding: 92px;
+}
+.fashion-blog-desc h3 {
+    font-size: 20px;
+}
+.w_comment_form {
+    margin-bottom: 30px;
+	    padding: 0;
+}
+.fashion-blog .swiper-container {
+    padding-bottom: 16px;
+}
+.space {
+    padding: 30px 0;
+}
+.fashion-blog .home-blog .swiper-button-prev {
+      margin-left: 0;
+    margin-top: 50%;
+}
+.fashion-blog .home-blog .swiper-button-next {
+    margin-right: 0;
+    margin-top: 50%;
+}
+.fashion-blog .swiper-button-next5::after {
+    margin-left: 28px;
+    margin-top: -36px;
+}
+.fashion-blog-text.blog-gallerys div#attachment_907 img {
+    width: 32%;
+}
+.fashion-next,
+.fashion-prev {
+    text-align: center;
+}
+}
+
+
+
+@media(max-width:320px){
+.fashion_slider  .carousel-caption {
+    top: 6px;
+}
+.fashion_slider  .carousel-caption h1 {
+    font-size: 18px;
+}
+.fashion_slider  .carousel-caption p {
+    font-size: 10px;
+}
+.fashion-social .icon {
+    font-size: 20px;
+    padding: 6px;
+    width: 36px;
+}
+.swiper4 .swiper-button-next {
+    margin-right: 25%;
+}
+.swiper4 .swiper-button-prev {
+    margin-left: 25%;
+}
+.shop-grid-view .icons-overlay li {
+    padding: 10px 13.7px;
+}
+.comments .comment-detail {
+    margin: 5px 0;
+    padding: 0;
+}
+.comments-pics {
+    padding: 0;
+}
+.comments {
+    padding: 0;
+}
+.comments-text .time {
+    padding-left: 0;
+    display: inline-block;
+}
+.comments .comment-detail p {
+    margin: 0;
+    padding: 0px 0;
+}
+.tags.sidebar-list li {
+    padding: 7px;
+}
+.fashion-bredcum-title h1 {
+font-size: 20px;
+}
+.fashion-error .form-control {
+    font-size: 12px;
+    width: 74%;
+}
+.fashion-error .butn {
+    font-size: 10px;
+}
+}
+
+
+@media only screen and (max-width: 480px) and (min-width: 200px){
+.navbar-brand {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+.dropdown-menu {
+    width: 100%;
+    float: none;
+    position: static !important;
+}
+.navbar-nav .fa.fa-angle-down {
+    float: right;
+    background-color: #777;
+    padding: 0px 5px;
+	color:#fff;
+}
+.fashion-blog .blog-detail h1 {
+    font-size: 24px;
+}
+#searchform input#s {
+    width: 80%;
+}
+}
+
+@media (max-width: 320px){
+.navbar-brand {
+    margin-left: -50px;
+}
+#searchform input#s {
+    width: 74%;
+}
+.fashion-blog .swiper-button-next5::before {
+    border-right: 40px solid transparent !important;
+    border-top: 40px solid #000;
+    bottom: 0;
+}
+.fashion-blog .swiper-button-next5::after {
+    margin-left: 16px;
+    margin-top: -15px;
+}
+.fashion-blog .swiper-button-next5::after {
+    font-size: 28px;
+}
+.fashion-blog .swiper-button-prev5::before {
+    border-left: 40px solid transparent !important;
+    border-top: 40px solid #000;
+	    bottom: 0;
+}
+.fashion-blog .swiper-button-prev5::after {
+    font-size: 28px;
+    margin-top: -15px;
+}
+}

@@ -1,0 +1,29 @@
+Changelog:-
+
+@Version: 2.2.7 [09-05-2018]
+* Minor CSS changes.
+
+@Version: 2.2.6 [17-04-2018]
+* Home Product func update.
+* Home Blog Post design update.
+ 
+@Version: 2.2.5 [06-03-2018]
+* Description update.
+
+@Version: 2.2.4 [10-02-2018]
+* Setup Home Page Menu Added.
+* Minor code correction.
+
+@Version: 2.2.2 [06-02-2018]
+* More Themes Page added.
+* Upsell link added.
+
+
+@Version: 2.2.1 [01-02-2018]
+* Issue Fixed
+
+@Version: 2.2 [22-01-2018]
+* Issue Fixed
+
+@Version: 2.1 [19-01-2018]
+* Issue Fixed

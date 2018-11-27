@@ -1,0 +1,23 @@
+Version: 0.1
+	Initial Version Released
+
+Version: 0.2
+	-- Define null variable for nav.
+	-- Removed the arguments from comment.php
+	-- Added Documentation in readme.txt file.
+	-- Added search function in site-branding.php.
+
+Version: 0.3
+	-- Removed null variable for nav.
+	-- Done the escaping in searchform.php.
+	-- Added wp_reset_postdata in home page template.
+	-- Added the code in page-with-left-sidebar.php file.
+	-- Updated woocommerce.
+
+Version: 0.3.1
+	-- Added variable in fuction.php file.
+	-- Change esc_attr_x to esc_html_x in search-form.php file.
+	-- Chnaged the page template title name.
+
+Version: 0.3.2
+	-- Added variable using an array.
